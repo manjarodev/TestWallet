@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable background_list_item
+drawable bnb
+drawable chevron_left
+drawable ic_arbitrum
+drawable ic_celo
+drawable ic_cosmos
+drawable ic_ethereum
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_optimism
+drawable ic_polygon
+drawable ic_solana
+drawable ic_walletconnect_circle_blue
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
