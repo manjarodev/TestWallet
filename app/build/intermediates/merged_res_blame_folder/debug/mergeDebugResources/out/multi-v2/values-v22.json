@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-91:/values-v22/values-v22.xml",
+            "outputFile": "com.app.digitalwalletdemo.app-mergeDebugResources-93:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ayzu01\\.gradle\\caches\\8.11.1\\transforms\\a5e72b66d5430d6f10d7ffe24830b6f6\\transformed\\appcompat-1.7.0\\res\\values-v22\\values-v22.xml",
+                    "source": "/home/nitro/.gradle/caches/transforms-4/e56c67f93520014cfe3a2c78f0f1b1e6/transformed/appcompat-1.7.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

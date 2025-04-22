@@ -4,6 +4,18 @@
     <item quantity="one">%d new notification</item>
     <item quantity="other">%d new notifications</item>
   </plurals>
+    <plurals formatted="false" msgid="7688673698789346225" name="wear_m3c_time_picker_hours_content_description">
+      <item quantity="other">%d ଘଣ୍ଟା</item>
+      <item quantity="one">%d ଘଣ୍ଟା</item>
+    </plurals>
+    <plurals formatted="false" msgid="8268405448590438607" name="wear_m3c_time_picker_minutes_content_description">
+      <item quantity="other">%d ମିନିଟ</item>
+      <item quantity="one">%d ମିନିଟ</item>
+    </plurals>
+    <plurals formatted="false" msgid="1073969431850983434" name="wear_m3c_time_picker_seconds_content_description">
+      <item quantity="other">%d ସେକେଣ୍ଡ</item>
+      <item quantity="one">%d ସେକେଣ୍ଡ</item>
+    </plurals>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ହୋମକୁ ନେଭିଗେଟ କରନ୍ତୁ"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ଅଧିକ ବିକଳ୍ପ"</string>
@@ -31,6 +43,7 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ଏହାଙ୍କ ସହ ସେୟାର୍‌ କରନ୍ତୁ"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ସହ ସେୟାର୍‍ କରନ୍ତୁ"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ସଂକୁଚିତ କରନ୍ତୁ"</string>
+    <string msgid="9020470552698189270" name="autofill">"ଅଟୋଫିଲ"</string>
     <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
     <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
     <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -115,7 +128,6 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"ଡାଏଲଗ"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"ସଙ୍କୁଚିତ କରାଯାଇଛି"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"ବିସ୍ତାର କରାଯାଇଛି"</string>
-    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"ଡ୍ରପଡାଉନ ମେନୁକୁ ଟୋଗଲ କରନ୍ତୁ"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"ସର୍ଚ୍ଚ କରନ୍ତୁ"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"ଖାରଜ କରନ୍ତୁ"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"ପରାମର୍ଶ ତଳେ ଦିଆଯାଇଛି"</string>
@@ -203,6 +215,7 @@
     <string name="searchview_navigation_content_description">Back</string>
     <string msgid="6043586758067023" name="selected">"ଚୟନିତ"</string>
     <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"ଆଲର୍ଟ"</string>
     <string msgid="4139871816613051306" name="state_empty">"ଖାଲି"</string>
     <string msgid="5834637030682409883" name="state_off">"ବନ୍ଦ ଅଛି"</string>
     <string msgid="1490883874751719580" name="state_on">"ଚାଲୁ ଅଛି"</string>
@@ -212,4 +225,21 @@
     <string msgid="5946805113151406391" name="template_percent">"ଶତକଡ଼ା <ns1:g id="PERCENTAGE">%1$d</ns1:g>।"</string>
     <string msgid="3765533235322692011" name="tooltip_description">"ଟୁଲଟିପ"</string>
     <string msgid="3124740595719787496" name="tooltip_label">"ଟୁଲଟିପ ଦେଖାନ୍ତୁ"</string>
+    <string msgid="7776845597891182382" name="wear_m3c_alert_dialog_content_description_confirm_button">"ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+    <string msgid="3572467833850785688" name="wear_m3c_alert_dialog_content_description_dismiss_button">"ଖାରଜ କରନ୍ତୁ"</string>
+    <string msgid="8932770593644830235" name="wear_m3c_date_picker_day">"ଦିନ"</string>
+    <string msgid="1824308273028674826" name="wear_m3c_date_picker_heading">"ତାରିଖ ସେଟ କରିବାକୁ ସ୍କ୍ରୋଲ କରନ୍ତୁ"</string>
+    <string msgid="5962969526377479136" name="wear_m3c_date_picker_month">"ମାସ"</string>
+    <string msgid="4697690064312147449" name="wear_m3c_date_picker_year">"ବର୍ଷ"</string>
+    <string msgid="3200727397161392122" name="wear_m3c_open_on_phone">"ଫୋନ ଯାଞ୍ଚ କର"</string>
+    <string msgid="5953380527505012363" name="wear_m3c_open_on_phone_icon_content_description">"ଆପଣଙ୍କ ଫୋନ ଆଇକନ ଯାଞ୍ଚ କରନ୍ତୁ"</string>
+    <string msgid="8440144719909288057" name="wear_m3c_picker_confirm_button_content_description">"ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+    <string msgid="3346011303652897029" name="wear_m3c_picker_next_button_content_description">"ପରବର୍ତ୍ତୀ"</string>
+    <string msgid="8242572466064289486" name="wear_m3c_slider_decrease_content_description">"କମ କରନ୍ତୁ"</string>
+    <string msgid="3329631766954416834" name="wear_m3c_slider_increase_content_description">"ବଢ଼ାନ୍ତୁ"</string>
+    <string msgid="1741225633698384262" name="wear_m3c_time_picker_heading">"ସମୟ ସେଟ କରିବାକୁ ସ୍କ୍ରୋଲ କରନ୍ତୁ"</string>
+    <string msgid="5670838450714030035" name="wear_m3c_time_picker_hour">"ଘଣ୍ଟା"</string>
+    <string msgid="2847700380677127030" name="wear_m3c_time_picker_minute">"ମିନିଟ"</string>
+    <string msgid="5567285614451063120" name="wear_m3c_time_picker_period">"ଅବଧି"</string>
+    <string msgid="5551916170669814925" name="wear_m3c_time_picker_second">"ସେକେଣ୍ଡ"</string>
 </resources>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-91:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "com.app.digitalwalletdemo.app-mergeDebugResources-93:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ayzu01\\.gradle\\caches\\8.11.1\\transforms\\a5e72b66d5430d6f10d7ffe24830b6f6\\transformed\\appcompat-1.7.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/home/nitro/.gradle/caches/transforms-4/e56c67f93520014cfe3a2c78f0f1b1e6/transformed/appcompat-1.7.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ayzu01\\.gradle\\caches\\8.11.1\\transforms\\62d45f5462f43e9f5f74fbabb0180c61\\transformed\\material-1.12.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/home/nitro/.gradle/caches/transforms-4/ff26fb8b862c4dae6e9e67c9f3ec8e7a/transformed/material-1.12.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

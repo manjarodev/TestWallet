@@ -9,8 +9,10 @@ pluginManagement {
         }
         mavenCentral()
         gradlePluginPortal()
-        mavenCentral()
         maven { url = uri("https://jitpack.io") }
+//        maven { url = uri("https://mvnrepository.com/artifact/com.reown/walletkit/1.2.0") }
+
+
     }
 }
 dependencyResolutionManagement {
@@ -18,11 +20,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        mavenCentral()
         maven { url = uri("https://jitpack.io") }
+//        maven { url = uri("https://mvnrepository.com/artifact/com.reown/walletkit/1.2.0") }
     }
 }
 
-rootProject.name = "My Application"
+rootProject.name = "DigitalWalletDemo"
 include(":app")
- 

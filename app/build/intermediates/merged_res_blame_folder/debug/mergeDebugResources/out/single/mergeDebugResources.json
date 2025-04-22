@@ -1,110 +1,190 @@
 [
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_cosmos.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_cosmos.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_white_check.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_white_check.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_background_list_item.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/background_list_item.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_dao.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/dao.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/xml_backup_rules.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/xml/backup_rules.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_arbitrum.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_arbitrum.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_bnb.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/bnb.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_wallet_connect_logo.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_wallet_connect_logo.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_profile.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/profile.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_noun.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/noun.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_ethereum.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_ethereum.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_external_link.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_external_link.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_optimism.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_optimism.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_bnb.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/bnb.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_forward_chevron.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_forward_chevron.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/xml/data_extraction_rules.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_solana.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_solana.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_wallet.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_wallet.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_ethereum.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_ethereum.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_polygon.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_polygon.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_offline.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_offline.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_walletconnect_circle_blue.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_walletconnect_circle_blue.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_launcher_background.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_polygon.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_polygon.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_scan.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_scan.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_background_list_item.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/background_list_item.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_chevron_left.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/chevron_left.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_optimism.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_optimism.xml"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-95:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.myapplication.app-debug-93:/drawable_ic_celo.xml.flat",
-        "source": "com.example.myapplication.app-main-95:/drawable/ic_celo.xml"
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_chevron_left.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/chevron_left.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_celo.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_celo.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_defi.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/defi.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_wallet_connect_qr_logo.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_wallet_connect_qr_logo.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_close.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/xml_data_extraction_rules.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_eth.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/eth.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_nft.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/nft.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_question_mark.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_question_mark.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_cosmos.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_cosmos.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/xml_backup_rules.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_copy.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_login.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/login.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_solana.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_solana.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_browser.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/browser.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_walletconnect_circle_blue.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_walletconnect_circle_blue.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_lock.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/lock.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.app.digitalwalletdemo.app-debug-95:/drawable_ic_arbitrum.xml.flat",
+        "source": "com.app.digitalwalletdemo.app-main-97:/drawable/ic_arbitrum.xml"
     }
 ]

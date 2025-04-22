@@ -4,6 +4,18 @@
     <item quantity="one">%d yeni bildirim</item>
     <item quantity="other">%d yeni bildirim</item>
   </plurals>
+    <plurals formatted="false" msgid="7688673698789346225" name="wear_m3c_time_picker_hours_content_description">
+      <item quantity="other">%d Saat</item>
+      <item quantity="one">%d Saat</item>
+    </plurals>
+    <plurals formatted="false" msgid="8268405448590438607" name="wear_m3c_time_picker_minutes_content_description">
+      <item quantity="other">%d Dakika</item>
+      <item quantity="one">%d Dakika</item>
+    </plurals>
+    <plurals formatted="false" msgid="1073969431850983434" name="wear_m3c_time_picker_seconds_content_description">
+      <item quantity="other">%d Saniye</item>
+      <item quantity="one">%d Saniye</item>
+    </plurals>
     <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
     <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yukarı git"</string>
     <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
@@ -31,6 +43,7 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string msgid="9020470552698189270" name="autofill">"Otomatik doldurma"</string>
     <string name="bottomsheet_action_collapse">Alt sayfayı daralt</string>
     <string name="bottomsheet_action_expand">Alt sayfayı genişlet</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
@@ -115,7 +128,6 @@
     <string msgid="7617233117134790350" name="m3c_dialog">"Dialog"</string>
     <string msgid="3177828188723359358" name="m3c_dropdown_menu_collapsed">"Daraltıldı"</string>
     <string msgid="2360841780724299882" name="m3c_dropdown_menu_expanded">"Genişletildi"</string>
-    <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Açılır menüyü açın/kapatın"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Arama"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Kapat"</string>
     <string msgid="7655536806087401899" name="m3c_suggestions_available">"Önerileri aşağıda bulabilirsiniz"</string>
@@ -203,6 +215,7 @@
     <string name="searchview_navigation_content_description">Geri</string>
     <string msgid="6043586758067023" name="selected">"Seçili"</string>
     <string name="side_sheet_accessibility_pane_title">Yan Sayfa</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"Uyarı"</string>
     <string msgid="4139871816613051306" name="state_empty">"Boş"</string>
     <string msgid="5834637030682409883" name="state_off">"Kapalı"</string>
     <string msgid="1490883874751719580" name="state_on">"Açık"</string>
@@ -212,4 +225,21 @@
     <string msgid="5946805113151406391" name="template_percent">"Yüzde <ns1:g id="PERCENTAGE">%1$d</ns1:g>."</string>
     <string msgid="3765533235322692011" name="tooltip_description">"ipucu"</string>
     <string msgid="3124740595719787496" name="tooltip_label">"ipucunu göster"</string>
+    <string msgid="7776845597891182382" name="wear_m3c_alert_dialog_content_description_confirm_button">"Onayla"</string>
+    <string msgid="3572467833850785688" name="wear_m3c_alert_dialog_content_description_dismiss_button">"Kapat"</string>
+    <string msgid="8932770593644830235" name="wear_m3c_date_picker_day">"Gün"</string>
+    <string msgid="1824308273028674826" name="wear_m3c_date_picker_heading">"Tarihi ayarlamak için kaydırın"</string>
+    <string msgid="5962969526377479136" name="wear_m3c_date_picker_month">"Ay"</string>
+    <string msgid="4697690064312147449" name="wear_m3c_date_picker_year">"Yıl"</string>
+    <string msgid="3200727397161392122" name="wear_m3c_open_on_phone">"Telefonu kontrol edin"</string>
+    <string msgid="5953380527505012363" name="wear_m3c_open_on_phone_icon_content_description">"Telefonunuzu kontrol edin simgesi"</string>
+    <string msgid="8440144719909288057" name="wear_m3c_picker_confirm_button_content_description">"Onayla"</string>
+    <string msgid="3346011303652897029" name="wear_m3c_picker_next_button_content_description">"İleri"</string>
+    <string msgid="8242572466064289486" name="wear_m3c_slider_decrease_content_description">"Azalt"</string>
+    <string msgid="3329631766954416834" name="wear_m3c_slider_increase_content_description">"Artır"</string>
+    <string msgid="1741225633698384262" name="wear_m3c_time_picker_heading">"Saati ayarlamak için kaydırın"</string>
+    <string msgid="5670838450714030035" name="wear_m3c_time_picker_hour">"Saat"</string>
+    <string msgid="2847700380677127030" name="wear_m3c_time_picker_minute">"Dakika"</string>
+    <string msgid="5567285614451063120" name="wear_m3c_time_picker_period">"Aralık"</string>
+    <string msgid="5551916170669814925" name="wear_m3c_time_picker_second">"Saniye"</string>
 </resources>

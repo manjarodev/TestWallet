@@ -1,21 +1,23 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.kotlin.compose)
 }
 
 android {
-    namespace = "com.example.myapplication"
+    namespace = "com.app.digitalwalletdemo"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
-        minSdk = 24
-        targetSdk = 35
+        applicationId = "com.app.digitalwalletdemo"
+        minSdk = 26
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables {
+            useSupportLibrary = true
+        }
     }
 
     buildTypes {
@@ -28,14 +30,29 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_11
-        targetCompatibility = JavaVersion.VERSION_11
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
+
     kotlinOptions {
-        jvmTarget = "11"
+        jvmTarget = "17"
     }
+
     buildFeatures {
         compose = true
+        buildConfig = true
+        viewBinding = true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion = "1.5.1"
+    }
+    packaging {
+        resources {
+            excludes += "/META-INF/{AL2.0,LGPL2.1}"
+        }
+    }
+    packagingOptions {
+        exclude("META-INF/versions/9/OSGI-INF/MANIFEST.MF")
     }
 }
 
@@ -49,6 +66,8 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.firebase.common.ktx)
+    implementation(libs.androidx.compose.material3)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -57,16 +76,23 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    implementation(platform("com.reown:android-bom:1.0.0"))
-    implementation("com.reown:android-core")
-    implementation("com.reown:walletkit")
-    implementation("com.reown:appkit")
-    implementation ("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7")
-    implementation ("androidx.constraintlayout:constraintlayout-compose:1.0.1")
-    implementation ("com.github.alexzhirkevich:custom-qr-generator:1.6.2")
-    implementation("io.coil-kt:coil-compose:2.5.0")
-    implementation("com.google.accompanist:accompanist-navigation-material:0.30.1")
-    implementation("androidx.navigation:navigation-compose:2.7.6")
-    implementation ("androidx.compose.material:material:1.6.5")
+
+    // Jetpack Compose UI
+    implementation(libs.ui)
+    implementation(libs.androidx.navigation.compose)
+    implementation(libs.androidx.runtime.livedata)
+    implementation(libs.accompanist.navigation.material)
+    implementation(libs.androidx.material)
+    implementation (libs.coil.compose)
+
+    implementation(libs.android.bom)
+    implementation(libs.android.core)
+    implementation(libs.appkit)
+    implementation (libs.androidx.constraintlayout.compose)
+    implementation (libs.androidx.animation)
+    implementation (libs.accompanist.drawablepainter)
+    implementation (libs.core)
+    
+
 
 }

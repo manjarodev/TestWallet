@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.myapplication",
+  "applicationId": "com.app.digitalwalletdemo",
   "variantName": "debug",
   "elements": [
     {
@@ -17,5 +17,5 @@
     }
   ],
   "elementType": "File",
-  "minSdkVersionForDexing": 24
+  "minSdkVersionForDexing": 26
 }
